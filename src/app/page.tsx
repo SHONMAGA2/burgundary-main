@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import styles from './Home.module.css'
 
 export default function Home() {
@@ -48,7 +49,7 @@ export default function Home() {
         <div className={styles.E}>
           <h2>E-commerce</h2>
           <p>An E-commerce where all our products are waiting to be bought by you</p>
-          <a href="">Store</a>
+          <Link href="/shop">Store</Link>
         </div>
       </div>
     </div>

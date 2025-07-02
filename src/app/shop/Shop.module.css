@@ -1,0 +1,116 @@
+.title {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  box-shadow: 0 10px 6px rgba(1, 1, 1, 0.1);
+  background-color: #f5f5f5;
+  border: solid 0.5px black;
+  padding: 2rem;
+  border-radius: 1em;
+  text-align: center;
+}
+
+.section {
+  text-align: center;
+  box-shadow: 0 10px 6px rgba(1, 1, 1, 0.1);
+  background-color: #f5f5f5;
+  border-radius: 5em;
+  border: solid 0.5px black;
+  padding: 1rem;
+}
+
+.products {
+  margin-top: 5em;
+  padding: 3em;
+  box-shadow: 0 10px 6px rgba(1, 1, 1, 0.1);
+  background-color: #f5f5f5;
+  color: #2e2e2e;
+  border-radius: 10em;
+  border: solid 0.5px black;
+}
+
+.card {
+  text-align: center;
+  margin: 2em auto;
+  width: 90%;
+  max-width: 500px;
+  box-shadow: 0 10px 6px rgba(1, 1, 1, 0.1);
+  background-color: #f5f5f5;
+  color: #2e2e2e;
+  border: solid 0.2px black;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.cardImage {
+  height: auto;
+  width: 100%;
+  max-width: 300px;
+}
+
+.price {
+  color: #dc143c;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: auto;
+  text-align: center;
+  gap: 0.5rem;
+}
+
+.input {
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  width: 90%;
+  max-width: 300px;
+}
+
+.button {
+  width: 90%;
+  max-width: 300px;
+}
+
+.heading {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 1.8rem;
+    padding: 1rem;
+  }
+
+  .products {
+    border-radius: 2em;
+    padding: 1.5em;
+  }
+
+  .section {
+    border-radius: 2em;
+    padding: 1rem;
+  }
+
+  .card {
+    margin: 2em auto;
+    width: 95%;
+    padding: 1em;
+  }
+
+  .form {
+    flex-direction: column;
+    width: 100%;
+    gap: 0.5em;
+  }
+
+  .input,
+  .button {
+    width: 90%;
+    max-width: 300px;
+  }
+}
