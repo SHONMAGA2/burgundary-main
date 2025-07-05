@@ -19,7 +19,7 @@ export default function Shop() {
             />
             <h3>Basic Business Website (3-5 pages)</h3>
             <p className={styles.price}><strong>Price: R1500-R4000</strong></p>
-            <form action="https://burgundary-api.onrender.com/api/review" method="POST" id="rev-basic" className={styles.form}>
+            <form action="https://burgundary-api-xa9f.onrender.com/api/review" method="POST" id="rev-basic" className={styles.form}>
               <label htmlFor="review-basic">Review</label>
               <input
                 type="text"
@@ -41,7 +41,7 @@ export default function Shop() {
             />
             <h3>Standard Business Website with contact forms, gallery and blogs</h3>
             <p className={styles.price}><strong>Price: R4500-R8000</strong></p>
-            <form action="https://burgundary-api.onrender.com/api/review" method="POST" id="rev-standard" className={styles.form}>
+            <form action="https://burgundary-api-xa9f.onrender.com/api/review" method="POST" id="rev-standard" className={styles.form}>
               <label htmlFor="review-standard">Review</label>
               <input
                 type="text"
@@ -63,7 +63,7 @@ export default function Shop() {
             />
             <h3>Premium Web Applications Custom logic, Dashboards, User Authentication</h3>
             <p className={styles.price}><strong>Price: R9000-R20000+</strong></p>
-            <form action="https://burgundary-api.onrender.com/api/review" method="POST" id="rev-premium" className={styles.form}>
+            <form action="https://burgundary-api-xa9f.onrender.com/api/review" method="POST" id="rev-premium" className={styles.form}>
               <label htmlFor="review-premium">Review</label>
               <input
                 type="text"
@@ -85,7 +85,7 @@ export default function Shop() {
             />
             <h3>Advanced Machine-Learning Deep Learning, Natural-language-processing, Image-recognition</h3>
             <p className={styles.price}><strong>Price: R8000-R20000+</strong></p>
-            <form action="https://burgundary-api.onrender.com/api/review" method="POST" id="rev-ml-advanced" className={styles.form}>
+            <form action="https://burgundary-api-xa9f.onrender.com/api/review" method="POST" id="rev-ml-advanced" className={styles.form}>
               <label htmlFor="review-ml-advanced">Review</label>
               <input
                 type="text"
@@ -103,7 +103,7 @@ export default function Shop() {
             <img alt="Basic ML Models" className={styles.cardImage} />
             <h3>Basic ML Models (Scikit-learn Classifier / Regressor)</h3>
             <p className={styles.price}><strong>Price: R3000-R7000</strong></p>
-            <form action="https://burgundary-api.onrender.com/api/review" method="POST" id="rev-ml-basic" className={styles.form}>
+            <form action="https://burgundary-api-xa9f.onrender.com/api/review" method="POST" id="rev-ml-basic" className={styles.form}>
               <label htmlFor="review-ml-basic">Review</label>
               <input
                 type="text"
@@ -121,7 +121,7 @@ export default function Shop() {
             <img alt="Web Scrapers / Data Tools / Bots" className={styles.cardImage} />
             <h3>Web Scrapers / Data Tools / Bots</h3>
             <p className={styles.price}><strong>Price: R1000-R4000</strong></p>
-            <form action="https://burgundary-api.onrender.com/api/review" method="POST" id="rev-scrapers" className={styles.form}>
+            <form action="https://burgundary-api-xa9f.onrender.com/api/review" method="POST" id="rev-scrapers" className={styles.form}>
               <label htmlFor="review-scrapers">Review</label>
               <input
                 type="text"
@@ -139,7 +139,7 @@ export default function Shop() {
             <img alt="Desktop GUI App" className={styles.cardImage} />
             <h3>Desktop GUI App (Tkinter, PyQt, etc.)</h3>
             <p className={styles.price}><strong>Price: R2,000 – R5,000</strong></p>
-            <form action="https://burgundary-api.onrender.com/api/review" method="POST" id="rev-desktop" className={styles.form}>
+            <form action="https://burgundary-api-xa9f.onrender.com/api/review" method="POST" id="rev-desktop" className={styles.form}>
               <label htmlFor="review-desktop">Review</label>
               <input
                 type="text"
@@ -157,7 +157,7 @@ export default function Shop() {
             <img alt="Basic Scripts or Tools" className={styles.cardImage} />
             <h3>Basic Scripts or Tools (Calculators, Automation)</h3>
             <p className={styles.price}><strong>Price: R500 – R1,500</strong></p>
-            <form action="https://burgundary-api.onrender.com/api/review" method="POST" id="rev-scripts" className={styles.form}>
+            <form action="https://burgundary-api-xa9f.onrender.com/api/review" method="POST" id="rev-scripts" className={styles.form}>
               <label htmlFor="review-scripts">Review</label>
               <input
                 type="text"
@@ -175,7 +175,7 @@ export default function Shop() {
             <img alt="Database or API-integrated App" className={styles.cardImage} />
             <h3>Database or API-integrated App</h3>
             <p className={styles.price}><strong>Price: R7,000-R15,000</strong></p>
-            <form action="https://burgundary-api.onrender.com/api/review" method="POST" id="rev-db" className={styles.form}>
+            <form action="https://burgundary-api-xa9f.onrender.com/api/review" method="POST" id="rev-db" className={styles.form}>
               <label htmlFor="review-db">Review</label>
               <input
                 type="text"
@@ -197,7 +197,7 @@ export default function Shop() {
             />
             <h3>Simple App (e.g. To-Do List, Recipe App)</h3>
             <p className={styles.price}><strong>Price: R3,000 – R6,000</strong></p>
-            <form action="https://burgundary-api.onrender.com/api/review" method="POST" id="rev-simple" className={styles.form}>
+            <form action="https://burgundary-api-xa9f.onrender.com/api/review" method="POST" id="rev-simple" className={styles.form}>
               <label htmlFor="review-simple">Review</label>
               <input
                 type="text"
